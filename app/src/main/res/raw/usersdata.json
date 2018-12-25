@@ -1,0 +1,17 @@
+[
+  {
+    "username": "androiddev@navtech.com",
+    "password": "order@navtech",
+    "user_id": 1
+  },
+  {
+    "username": "iosdev@navtech.com",
+    "password": "order@navtech",
+    "user_id": 2
+  },
+  {
+    "username": "tester@navtech.com",
+    "password": "order@navtech",
+    "user_id": 3
+  }
+]
